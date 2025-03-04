@@ -2,8 +2,8 @@
 
 import React, { useState, useEffect } from "react";
 import { ethers } from "ethers";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "../ui/button";
+import { Card, CardContent } from "../ui/card";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from "recharts";
 import { AxelarQueryAPI } from "@axelar-network/axelarjs-sdk";
 
