@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState, useEffect } from "react";
 import { ethers } from "ethers";
 import { Button } from "@/components/ui/button";
@@ -99,3 +101,4 @@ export default function Dashboard() {
     </div>
   );
 }
+
