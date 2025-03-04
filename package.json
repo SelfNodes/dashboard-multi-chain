@@ -12,6 +12,6 @@
     "react-dom": "^18.0.0",
     "ethers": "^5.7.0",
     "recharts": "^2.1.0",
-    "@axelar-network/axelarjs-sdk": "^2.0.0"
+    "@axelar-network/axelarjs-sdk": "0.17.1"
   }
 }
